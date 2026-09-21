@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://haim-ai.github.io/barak-alon-law/sitemap.xml

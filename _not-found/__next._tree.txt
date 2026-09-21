@@ -1,2 +1,2 @@
-:HL["/barak-alon-law/_next/static/chunks/20rgfoxb_1xid.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"j_T_Z-2oi6NeTMtSmRnqs"}
+:HL["/barak-alon-law/_next/static/chunks/29a0lxyuwrdv7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"_ljc8KkY9cZhpQ1p9b9jp"}
